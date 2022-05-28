@@ -41,7 +41,7 @@ nav a {
 }
 
 .logo {
-    font-family: Curlz MT;
+    font-family: Curlz MT,Georgia;
     color: black;
     font-weight: bold;
     font-size: 22px;
@@ -306,7 +306,7 @@ button:active {
 .contac-me p {
     color: #fff;
     font-size: 30px;
-    font-family: calibri;
+    font-family: Georgia;
     font-weight: bold;
     border-bottom: 2px solid #fff;
 }
@@ -348,7 +348,7 @@ footer p {
 
 footer p:nth-child(1) {
     font-size: 30px;
-    font-family: Curlz MT;
+    font-family: Georgia;
     font-weight: bold;
     color: #191919;
     line-height: 10px;
